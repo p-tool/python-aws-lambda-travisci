@@ -1,0 +1,13 @@
+# pycharm
+.idea
+
+# pycache
+**__pycache__**
+
+# building
+dist/
+tmp/
+*.pyc
+*.zip
+venv
+env.sh
